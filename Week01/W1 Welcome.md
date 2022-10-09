@@ -21,13 +21,6 @@ Week 1 | September 29, 2022
 <br>
 
 ![bg](images/reitaku%20campus.jpg)
-# Join the class!
-
-#### Step 1
-![width:800px](images/google%20join%20class.png)
-
-### Step 2
-![width:800px](images/class%20code.png)
 
 # Hello!
 
@@ -68,7 +61,15 @@ Source: LA Times
 ![](images/sharing.jpg)
 [Source: CDTA Law](https://cdtalaw.com/cdta/the-importance-of-sharing-knowledge-in-any-legal-context/)
 
-## You are here to learn "Statistics" or...統計学
+
+# Join the class!
+
+#### Step 1
+![width:800px](images/google%20join%20class.png)
+
+### Step 2
+![width:800px](images/class%20code.png)
+
 
 
 # What is  Statistics?<br>統計学とは？
@@ -102,24 +103,25 @@ Insurance
 Sports
 Netflix!
 
-
 #
 ![width:500px](images/reitakustats.png)
 https://www.reitaku-u.ac.jp/about/data/
 #
 ![width:800px](images/gendergap.png)
-
+#
+![width:400](images/gender%20gap%20ranking.jpg)
 #
 ![width:600px](images/nba%20stef.png)
 #
 ![width:600px](images/nba%20lebron.jpg)
-##
-
-![width:600px](images/kpop.png)
 
 ## 
 ![width:600px](images/soccer%20stats.png)
 https://www.statsperform.com/opta-football/
+
+##
+
+![width:600px](images/kpop.png)
 
 ##
 ![](images/music%20stats.png)
@@ -129,6 +131,32 @@ https://www.statsperform.com/opta-football/
 ![width:800px](images/music%20stats%20japanese.jpg)
 https://plan-ltd.co.jp/plog/12136
 
+# Let's play with Excel
+![width:600](images/excel%20fun.png)
+
+
+# Textbooks｜教科書
+
+##
+
+【タイトル】
+プレステップ統計学I
+
+【著者】
+稲葉由之
+
+【発行社】
+弘文堂
+
+【定価】
+1980円
+
+教科書は必ず購入してください。
+
+![bg right:40%](images/textbook.jpg)
+
+### Do you have Excel?
+![width:1100](images/install%20excel.png)
 
 ## Schedule スケジュール
 
@@ -174,50 +202,21 @@ Week 14 | 統計データの整理(第12章) |  Data management
 - 毎週課題（14回） 70%
 - 期末試験 30%
 
-## 
-出席 (1500 x 1/15 x 0.5)
- +
-宿題 (500 x 1/5 x 0.1)
- +
-プレゼン (200 x 1/2 x 0.4) 
- \=
- 100
+<small>*出席率60%以上で評価対象となります
+(大学全体と同様)</small>
 
-##
-- 出席率60%以上で評価対象となります
-(大学全体と同様)
-- 宿題は期限までに出せば１００点
-
-# Textbooks｜教科書
-
-##
-
-【タイトル】
-プレステップ統計学I
-
-【著者】
-稲葉由之
-
-【発行社】
-弘文堂
-
-【定価】
-1980円
-
-教科書は必ず購入してください。
-
-![bg right:40%](images/textbook.jpg)
-
-### Do you have Excel?
-![width:1100](images/install%20excel.png)
 
 # Assignment | 今週の宿題
+
 
 Fill out [this survey](https://forms.gle/RYacZUHTGbAf5cuz8)
 この[サーベイ](https://forms.gle/RYacZUHTGbAf5cuz8)を提出
 
 金曜日の夜11時59分まで
 
+
 # Next week
+
+第2章：統計データの分類（pp.18-30）
 
 ![](images/next%20week.png)
